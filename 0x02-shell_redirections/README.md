@@ -1,1 +1,1 @@
-Being unique is better
+lines containing the pattern
