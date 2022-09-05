@@ -1,1 +1,1 @@
-whats new
+Being unique is better
