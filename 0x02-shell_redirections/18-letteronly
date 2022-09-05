@@ -1,0 +1,2 @@
+#!/bin/bashgrep 
+'^[[:alpha:]]' /etc/ssh/sshd_config
