@@ -1,1 +1,1 @@
-ls_cwd_content the result 
+Duplicate last line
