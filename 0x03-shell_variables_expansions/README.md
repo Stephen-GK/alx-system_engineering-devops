@@ -1,1 +1,1 @@
-adding directory to your path
+script that counts number
