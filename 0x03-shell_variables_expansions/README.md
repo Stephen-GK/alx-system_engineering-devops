@@ -1,1 +1,1 @@
-all local variables and environment
+ creates a new global variable
