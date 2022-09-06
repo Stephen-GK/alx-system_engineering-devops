@@ -1,1 +1,1 @@
-script that counts number
+lists environment variales
