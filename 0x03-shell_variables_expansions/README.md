@@ -1,1 +1,1 @@
- types of people in the world
+prints all possible combinations
