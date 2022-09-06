@@ -1,1 +1,1 @@
-alias for ls and rm *
+script that prints Hello user
