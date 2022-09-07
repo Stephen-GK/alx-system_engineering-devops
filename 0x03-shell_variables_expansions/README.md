@@ -1,1 +1,1 @@
-prints every other line from the input
+add water and stir.
